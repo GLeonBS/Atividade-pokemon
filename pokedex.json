@@ -1,10 +1,74 @@
 [
   {
     "name": "bulbasaur",
-    "url": "https://pokeapi.co/api/v2/pokemon/1/"
+    "version": "firered",
+    "height": 7,
+    "weight": 69,
+    "stats": [
+      {
+        "nameStat": "hp",
+        "value": 45
+      },
+      {
+        "nameStat": "attack",
+        "value": 49
+      },
+      {
+        "nameStat": "defense",
+        "value": 49
+      },
+      {
+        "nameStat": "special-attack",
+        "value": 65
+      },
+      {
+        "nameStat": "special-defense",
+        "value": 65
+      },
+      {
+        "nameStat": "speed",
+        "value": 45
+      }
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ]
   },
   {
     "name": "ivysaur",
-    "url": "https://pokeapi.co/api/v2/pokemon/2/"
+    "version": "firered",
+    "height": 10,
+    "weight": 130,
+    "stats": [
+      {
+        "nameStat": "hp",
+        "value": 60
+      },
+      {
+        "nameStat": "attack",
+        "value": 62
+      },
+      {
+        "nameStat": "defense",
+        "value": 63
+      },
+      {
+        "nameStat": "special-attack",
+        "value": 80
+      },
+      {
+        "nameStat": "special-defense",
+        "value": 80
+      },
+      {
+        "nameStat": "speed",
+        "value": 60
+      }
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ]
   }
 ]
